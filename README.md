@@ -1,5 +1,3 @@
-# Quizlet-Hack
-
 # Quizlet hack
 NOTE images are curently being worked on and if the set is all images no text it wont work!
 
